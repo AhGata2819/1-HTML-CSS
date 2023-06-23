@@ -1,0 +1,62 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.cabecalho {
+    background-color: #F4F4F4;
+    color:#440827;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.cabecalho-imagem{
+    width:10%;
+}
+
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 16px;
+    font-size: 24px;
+}
+
+.croche-imagem{
+    width: 50%
+}
+
+.croche{
+    background-image: linear-gradient(#F4F4F4,#565660);
+    color: #440827;
+    display: flex;
+    justify-content: center;
+    padding: 60px;
+}
+
+.croche-div-conteudo{
+   width: 35%;
+}
+
+.croche-titulo{
+    padding: 15px 30px;
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
+
+.Produtos-imagem{
+   width: 200px
+}
+
+.Produtos-nome{
+    padding: 5px 45px;
+}
+
+.Produtos-icone{
+    width: 55px 
+}
